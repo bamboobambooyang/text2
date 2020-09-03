@@ -1,0 +1,13 @@
+body{
+    margin: 0px;
+}
+.header{
+    padding: 20px 0px;
+    font-size: 30px;
+    color: aqua;
+    background-color: cadetblue;
+    text-align: center;
+}
+.main{
+    text-align: center;
+}
